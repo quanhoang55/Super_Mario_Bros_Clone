@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - BreakingBrick
+  - BonusBox
+  - Pipe
+  - CameraBoundaries
+  - Goomba
+  - Koopa
+  - ShellKoopa
+  - LethalShell
+  - BlockCoin
+  - OneUp
+  - DeathTriggerZone
+  - FireFlower
+  - Fireball
+  - Star
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Mario
+  - Water
+  - UI
+  - Ground
+  - Bricks
+  - Pipes
+  - Obstacles
+  - PowerUp
+  - Enemy
+  - CameraBoundaries
+  - LethalEnemies
+  - DeathTrigger
+  - StarMario
+  - Fireball
+  - Frozen
+  - Star
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 219399433
+    locked: 0
+  - name: Ground
+    uniqueID: 1358861235
+    locked: 0
+  - name: Powerups
+    uniqueID: 1283042283
+    locked: 0
+  - name: Enemies
+    uniqueID: 3782643683
+    locked: 0
+  - name: Mario
+    uniqueID: 2254352821
+    locked: 0
+  - name: Pipes
+    uniqueID: 2393323415
+    locked: 0
+  - name: Blocks
+    uniqueID: 2611938271
+    locked: 0
+  - name: BlockCoin
+    uniqueID: 3101957889
+    locked: 0
+  - name: Death
+    uniqueID: 4086975803
+    locked: 0
+  m_RenderingLayers:
+  - Default
