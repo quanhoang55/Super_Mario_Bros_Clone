@@ -1,0 +1,197 @@
+{
+  "id": "level_01",
+  "name": "World 1-1 - Overworld",
+  "world": 1,
+  "level": 1,
+  "timeLimit": 400,
+  "playerSpawn": {
+    "x": -8.0,
+    "y": -1.0
+  },
+  "goal": {
+    "x": 118.0,
+    "y": 0.0
+  },
+  "entities": [
+    {
+      "id": "ground_01",
+      "type": "Ground",
+      "position": { "x": 0.0, "y": -4.0 },
+      "size": { "x": 40.0, "y": 1.0 },
+      "variant": "Ground",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "ground_02",
+      "type": "Ground",
+      "position": { "x": 44.0, "y": -4.0 },
+      "size": { "x": 24.0, "y": 1.0 },
+      "variant": "Ground",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "ground_03",
+      "type": "Ground",
+      "position": { "x": 76.0, "y": -4.0 },
+      "size": { "x": 48.0, "y": 1.0 },
+      "variant": "Ground",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "block_question_01",
+      "type": "Block",
+      "position": { "x": 8.0, "y": -1.0 },
+      "size": { "x": 1.0, "y": 1.0 },
+      "variant": "Question",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "block_brick_01",
+      "type": "Block",
+      "position": { "x": 10.0, "y": -1.0 },
+      "size": { "x": 1.0, "y": 1.0 },
+      "variant": "Brick",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "block_brick_02",
+      "type": "Block",
+      "position": { "x": 11.0, "y": -1.0 },
+      "size": { "x": 1.0, "y": 1.0 },
+      "variant": "Brick",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "block_question_02",
+      "type": "Block",
+      "position": { "x": 12.0, "y": -1.0 },
+      "size": { "x": 1.0, "y": 1.0 },
+      "variant": "Question",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "coin_01",
+      "type": "Coin",
+      "position": { "x": 10.0, "y": 1.0 },
+      "size": { "x": 0.5, "y": 0.5 },
+      "variant": "Gold",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "goomba_01",
+      "type": "Goomba",
+      "position": { "x": 14.0, "y": -3.0 },
+      "size": { "x": 0.8, "y": 0.8 },
+      "variant": "Default",
+      "patrolRange": 4.0,
+      "health": 1
+    },
+    {
+      "id": "goomba_02",
+      "type": "Goomba",
+      "position": { "x": 20.0, "y": -3.0 },
+      "size": { "x": 0.8, "y": 0.8 },
+      "variant": "Default",
+      "patrolRange": 4.0,
+      "health": 1
+    },
+    {
+      "id": "pipe_01",
+      "type": "Pipe",
+      "position": { "x": 30.0, "y": -3.0 },
+      "size": { "x": 2.0, "y": 2.0 },
+      "variant": "Green",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "koopa_01",
+      "type": "Koopa",
+      "position": { "x": 38.0, "y": -3.0 },
+      "size": { "x": 0.9, "y": 1.1 },
+      "variant": "Green",
+      "patrolRange": 6.0,
+      "health": 1
+    },
+    {
+      "id": "powerup_mushroom_01",
+      "type": "PowerUp",
+      "position": { "x": 8.0, "y": 0.0 },
+      "size": { "x": 0.8, "y": 0.8 },
+      "variant": "SuperMushroom",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "goomba_03",
+      "type": "Goomba",
+      "position": { "x": 52.0, "y": -3.0 },
+      "size": { "x": 0.8, "y": 0.8 },
+      "variant": "Default",
+      "patrolRange": 4.0,
+      "health": 1
+    },
+    {
+      "id": "block_brick_03",
+      "type": "Block",
+      "position": { "x": 60.0, "y": -1.0 },
+      "size": { "x": 1.0, "y": 1.0 },
+      "variant": "Brick",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "coin_02",
+      "type": "Coin",
+      "position": { "x": 60.0, "y": 0.5 },
+      "size": { "x": 0.5, "y": 0.5 },
+      "variant": "Gold",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "koopa_02",
+      "type": "Koopa",
+      "position": { "x": 84.0, "y": -3.0 },
+      "size": { "x": 0.9, "y": 1.1 },
+      "variant": "Green",
+      "patrolRange": 6.0,
+      "health": 1
+    },
+    {
+      "id": "goomba_04",
+      "type": "Goomba",
+      "position": { "x": 92.0, "y": -3.0 },
+      "size": { "x": 0.8, "y": 0.8 },
+      "variant": "Default",
+      "patrolRange": 4.0,
+      "health": 1
+    },
+    {
+      "id": "pipe_02",
+      "type": "Pipe",
+      "position": { "x": 102.0, "y": -3.0 },
+      "size": { "x": 2.0, "y": 2.0 },
+      "variant": "Green",
+      "patrolRange": 0.0,
+      "health": 0
+    },
+    {
+      "id": "flag_pole",
+      "type": "FlagPole",
+      "position": { "x": 118.0, "y": 0.0 },
+      "size": { "x": 1.0, "y": 8.0 },
+      "variant": "Goal",
+      "patrolRange": 0.0,
+      "health": 0
+    }
+  ]
+}

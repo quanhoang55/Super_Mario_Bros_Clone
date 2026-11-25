@@ -1,4 +1,8 @@
 ﻿<Solution>
+  <Project Path="SuperMario.Core.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="SuperMario.App.csproj" />
   <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="SuperMario.Data.csproj" />
+  <Project Path="SuperMario.Input.csproj" />
 </Solution>

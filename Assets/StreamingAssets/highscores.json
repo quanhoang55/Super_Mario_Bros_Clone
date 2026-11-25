@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "playerName": "MARIO",
+      "score": 10000,
+      "achievedAtUtc": "2026-01-01T00:00:00.0000000Z"
+    },
+    {
+      "playerName": "LUIGI",
+      "score": 7500,
+      "achievedAtUtc": "2026-01-02T00:00:00.0000000Z"
+    },
+    {
+      "playerName": "PEACH",
+      "score": 5000,
+      "achievedAtUtc": "2026-01-03T00:00:00.0000000Z"
+    }
+  ]
+}

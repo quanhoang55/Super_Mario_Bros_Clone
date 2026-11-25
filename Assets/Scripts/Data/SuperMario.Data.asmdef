@@ -1,0 +1,16 @@
+{
+    "name": "SuperMario.Data",
+    "rootNamespace": "SuperMario.Data",
+    "references": [
+        "SuperMario.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

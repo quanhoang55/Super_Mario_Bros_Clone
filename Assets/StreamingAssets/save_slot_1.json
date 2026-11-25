@@ -1,0 +1,44 @@
+{
+  "levelId": "level_01",
+  "world": 1,
+  "level": 1,
+  "playerPosition": {
+    "x": -8.0,
+    "y": -1.0
+  },
+  "lives": 3,
+  "score": 0,
+  "coins": 0,
+  "timeRemaining": 400,
+  "savedAtUtc": "2026-11-25T00:00:00.0000000Z",
+  "entities": [
+    {
+      "id": "goomba_01",
+      "type": "Goomba",
+      "position": { "x": 14.0, "y": -3.0 },
+      "isAlive": true,
+      "health": 1
+    },
+    {
+      "id": "goomba_02",
+      "type": "Goomba",
+      "position": { "x": 20.0, "y": -3.0 },
+      "isAlive": true,
+      "health": 1
+    },
+    {
+      "id": "koopa_01",
+      "type": "Koopa",
+      "position": { "x": 38.0, "y": -3.0 },
+      "isAlive": true,
+      "health": 1
+    },
+    {
+      "id": "powerup_mushroom_01",
+      "type": "PowerUp",
+      "position": { "x": 8.0, "y": 0.0 },
+      "isAlive": true,
+      "health": 0
+    }
+  ]
+}
